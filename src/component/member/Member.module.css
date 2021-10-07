@@ -1,0 +1,28 @@
+.members{
+    padding: 100px;  
+    background-size: 35% 35%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.cards{
+    text-align: center;
+    padding-top: 50px;
+    width: 50%;
+    margin: auto;
+   display: flex;
+}
+ p{
+  padding: 15px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.cards h2{
+    margin: 20px 10px;
+}
+#blue{
+    color:#74b9ff ;
+}
+img{
+    padding: 10px;
+}
+
